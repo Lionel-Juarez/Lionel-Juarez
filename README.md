@@ -1,4 +1,5 @@
-![intro](https://github.com/Lionel-Juarez/Lionel-Juarez/assets/117973879/7a1c6623-98ce-4f73-ab31-7d095438e331)
+
+
 
 
 # Hello there! 👋
