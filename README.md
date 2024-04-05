@@ -4,7 +4,7 @@
 
 # Hello there! 👋
 
-I'm a full stack developer grounded in Senior Technician Multiplatform Application Development, with a strong penchant for self-learning. My expertise spans across developing robust web and mobile applications. On the web front, I leverage **Angular** and **Spring Boot** to craft responsive and dynamic user experiences, ensuring seamless interaction and functionality. For mobile, I delve into **Android Studio** using **Java**, creating intuitive and user-friendly applications that cater to the needs of modern users. This diverse toolkit enables me to bridge the gap between complex backend logic and compelling frontend design.
+I'm a full stack developer grounded in Senior Technician Multiplatform Application Development (DAM), with a strong penchant for self-learning. My expertise spans across developing robust web and mobile applications. On the web front, I leverage **Angular** and **Spring Boot** to craft responsive and dynamic user experiences, ensuring seamless interaction and functionality. For mobile, I delve into **Android Studio** using **Java**, creating intuitive and user-friendly applications that cater to the needs of modern users. This diverse toolkit enables me to bridge the gap between complex backend logic and compelling frontend design.
 
 Before transitioning to the tech world, I worked for 6 years in a restaurant. This experience instilled in me a profound appreciation for dedication, time management, and the ability to thrive under pressure—traits that have proven to be invaluable in the realm of software development.
 
