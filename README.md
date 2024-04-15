@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1500&color=82AAFF&random=false&width=435&lines=Hello!+%F0%9F%91%8B+I%E2%80%99m+Lionel+Juarez;Full+Stack+Developer+Web%F0%9F%92%BB-+Mobile%F0%9F%93%B1;Always+in+learning+mode%F0%9F%93%9A" alt="Typing SVG" /></a>
 </div>
 
-I'm a full stack developer with a graduate as a Superior Technician of Multiplatform Application Development (DAM), with a strong inclination for self-learning. My expertise spans across developing robust web and mobile applications. On the web front, I leverage **Angular** and **Spring Boot**. For mobile, I develop with **Android Studio** using **Java**. This diverse toolkit enables me to bridge the gap between complex backend logic and compelling frontend design.
+I'm a full stack developer with a graduate as a Superior Technician of Multiplatform Application Development (DAM), with a strong inclination for self-learning. On the web front, I leverage **Angular** and **Spring Boot**. For mobile, I develop with **Android Studio** using **Java**. This diverse toolkit enables me to bridge the gap between complex backend logic and compelling frontend design.
 
 Before transitioning to the tech world, I worked for 6 years in a restaurant. This experience instilled in me a profound appreciation for dedication, time management, and the ability to thrive under pressure—traits that have proven to be invaluable in the realm of software development.
 
